@@ -1,0 +1,14 @@
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.exe
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.deps.json
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.runtimeconfig.json
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.dll
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.pdb
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.AssemblyInfoInputs.cache
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.AssemblyInfo.cs
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.csproj.CoreCompileInputs.cache
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.dll
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\refint\ToDo List.dll
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.pdb
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.genruntimeconfig.cache
+C:\Users\osany\OneDrive - Dalhousie University\Documents\C#\ToDo List\ToDo List\obj\Debug\net8.0\ref\ToDo List.dll
